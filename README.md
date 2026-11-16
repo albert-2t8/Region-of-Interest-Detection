@@ -7,7 +7,9 @@ To execute the process, follow these steps:
 
 
 Histogram Equalization: First, run the Ecualizacion code using the original image, imagen_1.png.
+
 ROI Detection: Once the histogram equalization process is complete, run the Contorno_de_interes code using the resulting equalized image, Reto_ecualizada.
+
 Note: The ROI detection process requires the equalized image generated in the first step. The result you can show it in imagen_modificada.
 
 
