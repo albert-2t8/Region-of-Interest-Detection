@@ -14,3 +14,7 @@ Note: The ROI detection process requires the equalized image generated in the fi
 
 
 Libraries to install: numpy, matplotlib, Pillow and cv2
+
+
+<img width="1452" height="540" alt="image" src="https://github.com/user-attachments/assets/3913ccb7-8620-47fe-af76-b3cd277bd2f5" />
+
